@@ -1,0 +1,14 @@
+E:\3año progra\laboratorio1\ejecicio2\bin\Debug\net8.0\ejecicio2.exe
+E:\3año progra\laboratorio1\ejecicio2\bin\Debug\net8.0\ejecicio2.deps.json
+E:\3año progra\laboratorio1\ejecicio2\bin\Debug\net8.0\ejecicio2.runtimeconfig.json
+E:\3año progra\laboratorio1\ejecicio2\bin\Debug\net8.0\ejecicio2.dll
+E:\3año progra\laboratorio1\ejecicio2\bin\Debug\net8.0\ejecicio2.pdb
+E:\3año progra\laboratorio1\ejecicio2\obj\Debug\net8.0\ejecicio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\3año progra\laboratorio1\ejecicio2\obj\Debug\net8.0\ejecicio2.AssemblyInfoInputs.cache
+E:\3año progra\laboratorio1\ejecicio2\obj\Debug\net8.0\ejecicio2.AssemblyInfo.cs
+E:\3año progra\laboratorio1\ejecicio2\obj\Debug\net8.0\ejecicio2.csproj.CoreCompileInputs.cache
+E:\3año progra\laboratorio1\ejecicio2\obj\Debug\net8.0\ejecicio2.dll
+E:\3año progra\laboratorio1\ejecicio2\obj\Debug\net8.0\refint\ejecicio2.dll
+E:\3año progra\laboratorio1\ejecicio2\obj\Debug\net8.0\ejecicio2.pdb
+E:\3año progra\laboratorio1\ejecicio2\obj\Debug\net8.0\ejecicio2.genruntimeconfig.cache
+E:\3año progra\laboratorio1\ejecicio2\obj\Debug\net8.0\ref\ejecicio2.dll
